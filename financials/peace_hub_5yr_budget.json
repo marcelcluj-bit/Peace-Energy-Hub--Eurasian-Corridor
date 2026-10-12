@@ -1,0 +1,12 @@
+{
+  "project": "Peace Energy Hub - Eurasian Corridor",
+  "currency": "USD",
+  "total_budget_5_years": 488000000,
+  "allocation_breakdown": [
+    {"category": "Diplomacy, Negotiations & Security Guarantees", "cost_usd": 22000000},
+    {"category": "Technical Audit & Damage Assessment", "cost_usd": 23000000},
+    {"category": "Physical Pipeline Reconstruction", "cost_usd": 370000000},
+    {"category": "Security Systems, IoT & Smart Contracts", "cost_usd": 37000000},
+    {"category": "Emergency & Administration Fund", "cost_usd": 36000000}
+  ]
+}
