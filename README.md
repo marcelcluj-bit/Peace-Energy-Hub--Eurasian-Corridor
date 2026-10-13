@@ -13,6 +13,11 @@
 
 ---
 
+- [⚡ Proiect Strategic: Hub-ul Energetic Rusia – Ucraina (Coridorul Eurasiatic)](docs/peace_energy_hub_eurasian_corridor.md) — Model de reconstrucție, buget pe 5 ani (488M USD) și mecanism de tokenizare bazat pe standarde de pace.
+- [💻 Smart Contract (Solidity): Peace Energy Hub Token (PEHT)](contracts/PeaceEnergyHubToken.sol) — Protocol open-source cu mecanism de urgență „Kill-Switch” geopolitic.
+
+---
+
 ## ⚖️ Disclaimer & Limitation of Liability
 THIS SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
 
